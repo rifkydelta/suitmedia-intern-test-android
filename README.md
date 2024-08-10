@@ -41,9 +41,6 @@ Ini adalah proyek aplikasi mobile yang dapat dijalankan di platform Android. Apl
 - **Empty State:** Menampilkan pesan jika tidak ada data yang tersedia.
 - **Pilih Pengguna:** Saat pengguna mengklik salah satu item di daftar, nama pengguna yang dipilih akan ditampilkan di label "Selected User Name" di layar kedua.
 
-## Desain Wireframe
-Desain wireframe dan prototipe dapat dilihat di Figma. Anda dapat login menggunakan akun Figma untuk melihat detail desain dan mengakses aset yang diperlukan.
-
 ---
 
 Proyek ini dibuat sebagai bagian dari tes teknis untuk pendaftaran Magang Kampus Merdeka di Suitmedia untuk posisi Mobile Developer.
